@@ -107,10 +107,11 @@ body {
     .box {
       margin-top: var(--grid);
       min-height: calc(4 * var(--grid));
+      padding: var(--grid);
     }
     .grid__text {
     grid-area: text;
-    padding-left: 10px;
+    padding-left: 25px;
   }
 
     }

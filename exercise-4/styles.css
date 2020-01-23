@@ -93,7 +93,7 @@ body {
 }
 
 figure {
-  height: 28em;
+  max-height: 28em;
   margin-bottom: 0;
   margin-left: -10em;
   margin-right: -10em;
